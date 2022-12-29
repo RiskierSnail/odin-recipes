@@ -9,3 +9,5 @@ This repository is used to create a recipe website that will include creation of
 3) This is pretty cool. Apparently you need to add another -m, after the first's quotations, to enter a detailed description for you commit subject.
 
 4) After you push the updated file and commit information, you will have to refresh sourcetree by using F5 (or in the view tab) for the push to update in the system.
+
+5) I am altering this file! More commit!
